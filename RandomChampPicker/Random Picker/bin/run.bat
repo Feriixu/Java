@@ -1,0 +1,1 @@
+java RandomPicker run.jar

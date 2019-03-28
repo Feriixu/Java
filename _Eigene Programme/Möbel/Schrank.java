@@ -1,0 +1,46 @@
+public class Schrank extends Möbelstück
+{
+  //Attribute
+  private int anzBöden;
+  public boolean schloss;
+  //Konstruktoren
+  public Schrank()
+  {
+    this("", "", 1, false);
+  }
+  public Schrank(String bezeichner, String material, int anzBöden, boolean schloss)
+  {
+    super(bezeichner, material);
+    if(anzBöden > 0)
+      this.anzBöden = anzBöden;          
+    else
+      this.anzBöden = 1; 
+    this.schloss = schloss; 
+  }
+  //Methoden
+  public void setAnzBöden(int AnzBöden)
+  {
+    if (anzBöden > 0) 
+    {
+      this.anzBöden = anzBöden;
+    }
+    else {
+      this.anzBöden = 0;
+    } 
+  }
+  public int getAnzBöden()
+  {
+    return this.anzBöden;
+  }
+  public void zeigeDaten()
+  {
+    super.zeigeDaten();
+    String text = "";
+    text += "Dies ist auch ein Schrank\n- Anzahl Böden: " + this.anzBöden + "\n- Schloss: ";
+    if(this.schloss)
+      text += "true";
+    else
+      text += "false";
+    System.out.println(text);
+  }
+}

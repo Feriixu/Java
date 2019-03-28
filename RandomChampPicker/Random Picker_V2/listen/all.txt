@@ -1,0 +1,140 @@
+Alistar	21. Feb. 2009	Der Minotaurus	the Minotaur
+Annie	21. Feb. 2009	Das Kind der Finsternis	the Dark Child
+Ashe	21. Feb. 2009	Die Frostbogenschützin	the Frost Archer
+Fiddlesticks	21. Feb. 2009	Der Unheilsbote	the Harbinger of Doom
+Jax	21. Feb. 2009	Der Großmeister der Waffen	Grandmaster at Arms
+Kayle	21. Feb. 2009	Die Richterin	the Judicator
+Master Yi	21. Feb. 2009	Der Wuju-Schwertkämpfer	the Wuju Bladesman
+Morgana	21. Feb. 2009	Der gefallene Engel	Fallen Angel
+Nunu	21. Feb. 2009	Der Yeti-Reiter	the Yeti Rider
+Ryze	21. Feb. 2009	Der Zauberschurke	the Rogue Mage
+Sion	21. Feb. 2009	Der untote Champion	the Undead Champion
+Sivir	21. Feb. 2009	Die Kampfmeisterin	the Battle Mistress
+Soraka	21. Feb. 2009	Das Sternenkind	the Starchild
+Teemo	21. Feb. 2009	Der flinke Späher	the Swift Scout
+Tristana	21. Feb. 2009	Die Megling-Schützin	the Megling Gunner
+Twisted Fate	21. Feb. 2009	Der Meister der Karten	the Card Master
+Warwick	21. Feb. 2009	Der Blutjäger	the Blood Hunter
+Singed	18. Apr. 2009	Der verrückte Chemiker	the Mad Chemist
+Zilean	18. Apr. 2009	Der Zeitwächter	the Chronokeeper
+Evelynn	1. Mai 2009	Die Witwenmacherin	the Widowmaker
+Tryndamere	1. Mai 2009	Der Barbarenkönig	the Barbarian King
+Twitch	1. Mai 2009	Die Seuchenratte	the Plague Rat
+Karthus	12. Juni 2009	Der Todessänger	the Deathsinger
+Amumu	26. Juni 2009	Die traurige Mumie	the Sad Mummy
+Cho'Gath	26. Juni 2009	Der Schrecken der Leere	the Terror of the Void
+Anivia	10. Juli 2009	Der Kryophönix	the Cryophoenix
+Rammus	10. Juli 2009	Das Panzergürteltier	the Armordillo
+Veigar	24. Juli 2009	Der kleine Meister der Bösen	the Tiny Master of Evil
+Kassadin	7. Aug. 2009	Der Leerengänger	the Void Walker
+Gangplank	19. Aug. 2009	Die Salzwassergeißel	the Saltwater Scourge
+Taric	19. Aug. 2009	Der Schild von Valoran	the Shield of Valoran
+Blitzcrank	2. Sep. 2009	Der große Dampfgolem	the Great Steam Golem
+Dr. Mundo	2. Sep. 2009	Der Irre von Zhaun	the Madman of Zaun
+Janna	2. Sep. 2009	Die Wut des Sturms	the Storm's Fury
+Malphite	2. Sep. 2009	Die Scherbe des Monolithen	Shard of the Monolith
+Corki	19. Sep. 2009	Der kühne Bombenschütze	the Daring Bombardier
+Katarina	19. Sep. 2009	Die unheimliche Klinge	the Sinister Blade
+Nasus	1. Okt. 2009	Der Bewahrer des Sandes	the Curator of the Sands
+Heimerdinger	10. Okt. 2009	Der verehrte Erfinder	the Revered Inventor
+Shaco	10. Okt. 2009	Der dunkle Hofnarr	the Demon Jester
+Udyr	2. Dez. 2009	Der Geistwanderer	the Spirit Walker
+Nidalee	17. Dez. 2009	Die bestialische Jägerin	the Bestial Huntress
+Poppy	13. Jan. 2010	Die eiserne Botschafterin	the Iron Ambassador
+Gragas	2. Feb. 2010	Der Unruhestifter	the Rabble Rouser
+Pantheon	2. Feb. 2010	Der Meister der Kriegskunst	the Artisan of War
+Mordekaiser	24. Feb. 2010	Der Meister des Metalls	the Master of Metal
+Ezreal	16. Mär. 2010	Der verwegene Forscher	the Prodigal Explorer
+Shen	24. Mär. 2010	Das Auge des Zwielichts	Eye of Twilight
+Kennen	8. Apr. 2010	Das Herz des Sturms	the Heart of the Tempest
+Garen	27. Apr. 2010	Die Macht von Demacia	The Might of Demacia
+Akali	11. Mai 2010	Die Faust der Schatten	the Fist of Shadow
+Malzahar	1. Juni 2010	Der Prophet der Leere	the Prophet of the Void
+Olaf	9. Juni 2010	Der Berserker	the Berserker
+Kog'Maw	24. Juni 2010	Der Schlund des Abgrunds	the Mouth of the Abyss
+Xin Zhao	13. Juli 2010	Der Seneschall von Demacia	the Seneschal of Demacia
+Vladimir	27. Juli 2010	Der blutrote Schnitter	the Crimson Reaper
+Galio	10. Aug. 2010	Der Koloss	the Colossus
+Urgot	24. Aug. 2010	Der Stolz des Scharfrichters	the Headsman's Pride
+Miss Fortune	8. Sep. 2010	Die Kopfgeldjägerin	the Bounty Hunter
+Sona	20. Sep. 2010	Die Virtuosin	Maven of the Strings
+Swain	5. Okt. 2010	Der Meister der Taktik	the Master Tactician
+Lux	19. Okt. 2010	Die Lady des Lichts	the Lady of Luminosity
+LeBlanc	2. Nov. 2010	Die Täuscherin	the Deceiver
+Irelia	16. Nov. 2010	Der Wille der Klingen	the Will of the Blades
+Trundle	1. Dez. 2010	Der Trollkönig	the Troll King
+Cassiopeia	14. Dez. 2010	Die Umarmung der Schlange	the Serpent's Embrace
+Caitlyn	4. Jan. 2011	Der Sheriff von Piltover	the Sheriff of Piltover
+Renekton	17. Jan. 2011	Der Schlächter des Sandes	the Butcher of the Sands
+Karma	1. Feb. 2011	Die Erleuchtete	the Enlightened One
+Maokai	16. Feb. 2011	Der gewundene Treant	the Twisted Treant
+Jarvan IV	1. Mär. 2011	Das Vorbild von Demacia	the Exemplar of Demacia
+Nocturne	15. Mär. 2011	Der ewige Alptraun	the Eternal Nightmare
+Lee Sin	1. Apr. 2011	Der blinde Mönch	the Blind Monk
+Brand	12. Apr. 2011	Die brennende Vergeltung	the Burning Vengeance
+Rumble	26. Apr. 2011	Die mechanische Bedrohung	the Mechanized Menace
+Vayne	10. Mai 2011	Die Jägerin der Nacht	the Night Hunter
+Orianna	1. Juni 2011	Die Aufziehpuppe	the Lady of Clockwork
+Yorick	22. Juni 2011	Der Hirte der verlorenen Seelen	the Shepherd of lost Souls
+Leona	13. Juli 2011	Der strahlende Sonnenaufgang	the Radiant Dawn
+Wukong	26. Juli 2011	Der Affenkönig	the Monkey King
+Skarner	9. Aug. 2011	Der Kristallstachel	the Crystal Vanguard
+Talon	24. Aug. 2011	Der Klingenschatten	the Blade's Shadow
+Riven	14. Sep. 2011	Die Verbannte	the Exile
+Xerath	5. Okt. 2011	Der magische Aszendent	the Magus Ascendant
+Graves	19. Okt. 2011	Der Gesetzlose	the Outlaw
+Shyvana	1. Nov. 2011	Der Halbdrache	the Half-Dragon
+Fizz	15. Nov. 2011	Der Gezeitentäuscher	the Tidal Trickster
+Volibear	29. Nov. 2011	Das Donnergrollen	the Thunder's Roar
+Ahri	14. Dez. 2011	Die neunschwänzige Füchsin	the Nine-Tailed Fox
+Viktor	29. Dez. 2011	Der Vorbote der Maschinen	the Machine Herald
+Sejuani	17. Jan. 2012	Der Zorn des Winters	the Winter's Wrath
+Ziggs	1. Feb. 2012	Der Hexplosions-Experte	the Hexplosives Expert
+Nautilus	14. Feb. 2012	Der Titan der Tiefen	the Titan of the Depths
+Fiora	29. Feb. 2012	Die große Duellantin	the Grand Duelist
+Lulu	20. Mär. 2012	Die Zauberin der Fae	the Fae Sorceress
+Hecarim	18. Apr. 2012	Der Schatten des Krieges	the Shadow of War
+Varus	8. Mai 2012	Der Pfeil der Vergeltung	the Arrow of Retribution
+Darius	23. Mai 2012	Die Hand von Noxus	the Hand of Noxus
+Draven	6. Juni 2012	Der ruhmreiche Scharfrichter	the Glorious Executioner
+Jayce	7. Juli 2012	Der Verteidiger von Morgen	the Defender of Tomorrow
+Zyra	24. Juli 2012	Die Gebieterin der Dornen	Rise of the Thorns
+Diana	7. Aug. 2012	Der Hohn des Mondes	Scorn of the Moon
+Rengar	21. Aug. 2012	Der stolze Jäger	the Pridestalker
+Syndra	13. Sep. 2012	Die dunkle Herrscherin	the Dark Sovereign
+Kha'Zix	27. Sep. 2012	Der Räuber der Leere	the Voidreaver
+Elise	26. Okt. 2012	Die Spinnenkönigin	the Spider Queen
+Zed	13. Nov. 2012	Der Meister der Schatten	the Master of Shadows
+Nami	7. Dez. 2012	Die Gezeitenruferin	the Tidecaller
+Vi	19. Dez. 2012	Piltovers Vollstreckerin	the Piltover Enforcer
+Thresh	23. Jan. 2013	Der Kettenwächter	the Chain Warden
+Quinn	1. Mär. 2013	Demacias Schwingen	Demacia's Wings
+Zac	29. Mär. 2013	Die Geheimwaffe	the Secret Weapon
+Lissandra	30. Apr. 2013	Die Eishexe	the Ice Witch
+Aatrox	13. Juni 2013	Die Klinge der Düsteren	the Darkin Blade
+Lucian	22. Aug. 2013	Der Läuterer	the Purifier
+Jinx	10. Okt. 2013	Die Schießwütige	the Loose Cannon
+Yasuo	13. Dez. 2013	Der entehrte Krieger	the Unforgiven
+Vel'Koz	27. Feb. 2014	Das Auge der Leere	the Eye of the Void
+Braum	12. Mai 2014	Das Herz Freljords	the Heart of the Freljord
+Gnar	13. Aug. 2014	Das fehlende Bindeglied	the Missing Link
+Azir	16. Sep. 2014	Der Imperator des Sandes	the Emperor of the Sands
+Kalista	20. Nov. 2014	Der Speer der Rache	the Spear of Vengeance
+Rek'Sai	11. Dez. 2014	Die Leerenwühlerin	the Void Burrower
+Bard	12. Mär. 2015	Der wandelnde Beschützer	the Wandering Caretaker
+Ekko	28. Mai 2015	Der Zeitbrecher	the Boy Who Shattered Time
+Tahm Kench	9. Juli 2015	Der König des Flusses	the River King
+Kindred	14. Okt. 2015	Die ewigen Jäger	the Eternal Hunters
+Illaoi	24. Nov. 2015	Die Krakenpriesterin	the Kraken Priestess
+Jhin	1. Feb. 2016	Der Virtuose	The Virtuoso
+Aurelion Sol	24. Mär. 2016	Der Sternenschmied	The Star Forger
+Taliyah	18. Mai 2016	Die Felsenweberin	The Stoneweaver
+Kled	10. Aug. 2016	Der übellaunige Streiter	the Cantankerous Cavalier
+Ivern	5. Okt. 2016	Der Hüter der Haine	the Green Father
+Camille	12. Dez. 2016	Der stählerne Schatten	the Steel Shadow
+Rakan	19. Apr. 2017	Der Publikumsliebling	the Charmer
+Xayah	19. Apr. 2017	Die Rebellin	the Rebel
+Kayn	12. Juli 2017	Der Schatten des Todes	The Shadow Reaper
+Ornn	23. Aug. 2017	Der Gott Der Vulkanschmiede	The Fire Below The Mountain
+Zoe	22. Nov. 2017	Der Aspekt des Zwielichts	The Aspect of Twilight
+Kai'Sa	07. Mär. 2018	Tochter der Leere	Daughter of the Void

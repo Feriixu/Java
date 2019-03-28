@@ -1,0 +1,110 @@
+[Files]
+File0=..\ha\KennungNote.java
+File1=..\ha\Lehrer1.java
+File2=..\ha\Main.java
+File3=..\ha\Note.java
+File4=..\ha\Person1.java
+File5=..\ha\Schueler1.java
+File6=StartTier.java
+File7=Tier.java
+
+[Box:  - KennungNote]
+X=190
+Y=185
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=0
+FontSize=10
+FontName=MS Sans Serif
+
+[Box:  - Lehrer1]
+X=530
+Y=185
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=0
+FontSize=10
+FontName=MS Sans Serif
+
+[Box:  - Main]
+X=953
+Y=40
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=0
+FontSize=10
+FontName=MS Sans Serif
+
+[Box:  - Note]
+X=20
+Y=185
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=0
+FontSize=10
+FontName=MS Sans Serif
+
+[Box:  - Person1]
+X=443
+Y=40
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=0
+FontSize=10
+FontName=MS Sans Serif
+
+[Box:  - Schueler1]
+X=360
+Y=185
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=0
+FontSize=10
+FontName=MS Sans Serif
+
+[Box:  - StartTier]
+X=783
+Y=40
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=0
+FontSize=10
+FontName=MS Sans Serif
+
+[Box:  - Tier]
+X=613
+Y=40
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=0
+FontSize=10
+FontName=MS Sans Serif
+
+[Diagram]
+comments=0
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=0
+ShowConnections=0
+Fontname=MS Sans Serif
+Fontsize=10
+ShowObjectDiagram=0
+
+[Connections]
+V0=Lehrer1#Person1#Inheritends####0#0#0
+V1=Schueler1#Person1#Inheritends####0#0#0
+
+[Interactive]
+I0=
+

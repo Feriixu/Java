@@ -1,0 +1,84 @@
+﻿[Files]
+File0=H:\Programmieren\Java\_Eigene Programme\Möbel\Main.java
+File1=H:\Programmieren\Java\_Eigene Programme\Möbel\Möbelstück.java
+File2=H:\Programmieren\Java\_Eigene Programme\Möbel\Regal.java
+File3=H:\Programmieren\Java\_Eigene Programme\Möbel\Schrank.java
+File4=H:\Programmieren\Java\_Eigene Programme\Möbel\Sitzmöbel.java
+File5=H:\Programmieren\Java\_Eigene Programme\Möbel\Stuhl.java
+
+[Box:  - Main]
+X=805
+Y=40
+ShowParameter=4
+ShowIcons=0
+FontSize=10
+FontName=MS Sans Serif
+
+[Box:  - Möbelstück]
+X=495
+Y=40
+ShowParameter=4
+ShowIcons=0
+FontSize=10
+FontName=MS Sans Serif
+
+[Box:  - Regal]
+X=20
+Y=201
+ShowParameter=4
+ShowIcons=0
+FontSize=10
+FontName=MS Sans Serif
+
+[Box:  - Schrank]
+X=505
+Y=201
+ShowParameter=4
+ShowIcons=0
+FontSize=10
+FontName=MS Sans Serif
+
+[Box:  - Sitzmöbel]
+X=989
+Y=201
+ShowParameter=4
+ShowIcons=0
+FontSize=10
+FontName=MS Sans Serif
+
+[Box:  - Stuhl]
+X=989
+Y=394
+ShowParameter=4
+ShowIcons=0
+FontSize=10
+FontName=MS Sans Serif
+
+[Diagram]
+comments=0
+OffsetX=0
+OffsetY=99
+Visibility=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=0
+ShowConnections=0
+Fontname=MS Sans Serif
+Fontsize=10
+ShowObjectDiagram=0
+
+[Connections]
+V0=Regal#Möbelstück#Inheritends####0#0#0###0#0
+V1=Schrank#Möbelstück#Inheritends####0#0#0###0#0
+V2=Sitzmöbel#Möbelstück#Inheritends####0#0#0###0#0
+V3=Stuhl#Sitzmöbel#Inheritends####0#0#0###0#0
+
+[Interactive]
+I0=
+
+[Window]
+Left=0
+Top=0
+Width=972
+Height=488
+

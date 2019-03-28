@@ -1,0 +1,28 @@
+[Files]
+File0=..\_Infotext\Person.java
+File1=..\_Infotext\Schueler.java
+
+[Box:  - Person]
+X=219
+Y=69
+MinVis=0
+
+[Box:  - Schueler]
+X=219
+Y=280
+MinVis=0
+
+[Diagram]
+OffsetX=0
+OffsetY=0
+ShowAssoc=1
+Visibility=0
+ShowParameter=0
+SortOrder=0
+ShowIcons=0
+Fontname=MS Sans Serif
+Fontsize=10
+
+[Connections]
+V0=Schueler#Person#6####0#0#
+

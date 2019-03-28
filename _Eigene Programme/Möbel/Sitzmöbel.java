@@ -1,0 +1,35 @@
+public class Sitzmöbel extends Möbelstück
+{
+  //Atribute
+  private int anzPersonen;
+  //Konstruktoren
+  public Sitzmöbel()
+  {
+    this("", "", 1);
+  }
+  public Sitzmöbel(String bezeichner, String material, int anzPersonen)
+  {
+    super(bezeichner, material);
+    if(anzPersonen > 0)
+      this.anzPersonen = anzPersonen;
+    else
+      this.anzPersonen = 1;
+  }
+  //Methoden
+  public void setAnzPersonen(int anzPersonen)
+  {
+    if(anzPersonen > 0)
+      this.anzPersonen = anzPersonen;
+    else
+      this.anzPersonen = 1;     
+  }
+  public int getAntPersonen()
+  {
+    return this.anzPersonen;
+  }
+  public void zeigeDaten()
+  {
+    super.zeigeDaten();
+    System.out.println("Dies ist auch ein Sitzmöbel\n- Anzahl Personen : " + this.anzPersonen);
+    }
+}
